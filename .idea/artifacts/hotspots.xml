@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hotspots">
+    <output-path>$PROJECT_DIR$/out/artifacts/hotspots</output-path>
+    <root id="archive" name="hotspots.jar">
+      <element id="module-output" name="Phase3" />
+    </root>
+  </artifact>
+</component>
